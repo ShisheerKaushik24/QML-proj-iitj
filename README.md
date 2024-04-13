@@ -4,11 +4,6 @@
 
 [Proposal Title](#project-title) | [Project PPT](src/project-ppt.pptx) | [Benchmarking Results](https://docs.google.com/spreadsheets/d/1X78ytW7T30povPvjhWPSY5MdKlO-EmcXUgmx9DEc0HA/edit?usp=sharing)
 
-### Contributors:
-
-| Author           | Linkedin profile                                 |
-|------------------|-------------------------------------------------|
-| Shisheer S Kaushik(M23IQT0063) | [Kaushik](https://www.linkedin.com/in/shisheerkaushik24/) | 
                                                       
 #### Project Title
 
