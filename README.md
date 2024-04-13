@@ -12,4 +12,4 @@
                                                       
 #### Project Title
 
-*From Static to Dynamic: Implementation of Long range Entanglement GHZ states for Dynamic Circuit-Based Quantum Teleportation*
+*VQC Classifier using EstimatorQNN and SamplerQNN*
