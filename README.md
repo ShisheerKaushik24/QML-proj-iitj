@@ -2,7 +2,7 @@
 
 [![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
-[Proposal Title](#project-title) | [Project PPT](Implementation/project-ppt.pdf)
+[Proposal Title](#project-title) | [Project PPT](Implementation/project-ppt.pptx)
 
 ### Contributors:
 
