@@ -8,3 +8,16 @@
 #### Project Title
 
 *VQC Classifier using EstimatorQNN and SamplerQNN*
+
+#### Best Results
+
+### Contributors:
+
+| Classisfier Model| Dataset Type | Feature Map & Ansatz | Accuracy | F1 Score | 
+|------------------|--------------|----------------------|----------|----------|
+| VQC | MNIST | Custome Feature Map and Ansatz | 79.89 | 79.88 |
+| VQC | CITRUS | Custome Feature Map and Ansatz | 75.9 | 74.6 |
+| SamplerQNN | MNIST | Custome Feature Map and Ansatz | 73.5 | 73 |
+| EstimatorQNN | CITRUS | Custome Feature Map and Ansatz | 52.4 | 51.88 |
+
+
