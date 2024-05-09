@@ -9,9 +9,7 @@
 
 *VQC Classifier using EstimatorQNN and SamplerQNN*
 
-#### Best Results
-
-### Contributors:
+#### Best Results:
 
 | Classisfier Model| Dataset Type | Feature Map & Ansatz | Accuracy | F1 Score | 
 |------------------|--------------|----------------------|----------|----------|
